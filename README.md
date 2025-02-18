@@ -43,21 +43,6 @@ The application uses a custom UI component library featuring:
 - Text: Typography component with consistent styling
 - Various input and interactive components
 
-## Code Structure
-
-```
-src/
-├── components/
-│   ├── TodoList.tsx
-│   ├── StatsBar.tsx
-│   └── ui/
-│       ├── Scaffold.tsx
-│       ├── AppBar.tsx
-│       └── ...
-├── types/
-│   └── Todo.ts
-└── App.tsx
-```
 
 ## Performance Optimizations
 

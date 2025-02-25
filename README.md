@@ -1,6 +1,10 @@
 # React Todo Application
 ![Screenshot 2025-02-22 202758](https://github.com/user-attachments/assets/daaa125c-7888-430d-8fa9-db77d772f6ab)
 
+![code4](https://github.com/user-attachments/assets/cecdfc6b-687b-4dde-98c0-debac267d7b2)
+
+
+
 A modern, performant Todo application built with React and TypeScript, featuring a clean UI and optimized component architecture.
 
 ## Features
